@@ -2,7 +2,7 @@ library(lme4)
 library(tidyverse)
 
 # PARG
-parg_data <- read_csv("C:/Users/Mac Tan/Desktop/Stuff/Elections/parg_data.csv") %>%
+parg_data <- read_csv("PARS-PARG/parg_data.csv") %>%
   mutate(net_of_rec = 100*net/(approve + disapprove),
          quarter = round((quarter - as.Date("2017-01-01"))/90))
 
@@ -42,7 +42,7 @@ summary(parg_model.re)
 ranefs_parg <- ranef(parg_model.re)
 
 # PARS
-pars_data <- read_csv("C:/Users/Mac Tan/Desktop/Stuff/Elections/pars_data.csv") %>%
+pars_data <- read_csv("PARS-PARG/pars_data.csv") %>%
   mutate(net_of_rec = 100*net/(approve + disapprove),
          quarter = round((quarter - as.Date("2017-01-01"))/90) %>% as.numeric())
 
