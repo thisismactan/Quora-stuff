@@ -8,6 +8,8 @@ library(Rfast)
 library(xml2)
 library(rvest)
 library(httr)
+library(RSelenium)
+library(stringr)
 
 #### CUSTOM FUNCTIONS ####
 getURLs <- function(user_id, sorted = FALSE, topic = NULL) {
@@ -71,3 +73,4 @@ scrapeAnswers <- function(urls) {
   
   return(answer_list)
 }
+
