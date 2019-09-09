@@ -12,3 +12,4 @@ Stuff I've done on Quora other than election forecasts.
 - **user-bot**: Automatically generating new content based on a user's answers. (IN PROGRESS)
 
 - **romney-clinton**: Characteristics of counties that flipped from Mitt Romney in 2012 to Hillary Clinton in 2016.
+  - Associated answers/posts: ["What are the characteristics of the Mitt Romney-Hillary Clinton counties? How will they vote in the future?"](https://www.quora.com/What-are-the-characteristics-of-the-Mitt-Romney-Hillary-Clinton-counties-How-will-they-vote-in-the-future/answer/Mac-Tan)
