@@ -1,0 +1,551 @@
+﻿state,year,trifecta,redistricting_control,governor_veto
+Alabama,2009,None,Legislature,TRUE
+Alaska,2009,None,No redistricting,
+Arizona,2009,Republican,Legislature,TRUE
+Arkansas,2009,Democratic,Legislature,TRUE
+California,2009,None,Commission / nonpartisan,
+Colorado,2009,Democratic,Legislature,TRUE
+Connecticut,2009,None,Legislature,FALSE
+Delaware,2009,Democratic,No redistricting,
+Florida,2009,Republican,Legislature,TRUE
+Georgia,2009,Republican,Legislature,TRUE
+Hawaii,2009,None,Commission / nonpartisan,
+Idaho,2009,Republican,Commission / nonpartisan,
+Illinois,2009,Democratic,Legislature,TRUE
+Indiana,2009,None,Legislature,TRUE
+Iowa,2009,Democratic,Commission / nonpartisan,
+Kansas,2009,None,Legislature,TRUE
+Kentucky,2009,None,Legislature,TRUE
+Louisiana,2009,None,Legislature,TRUE
+Maine,2009,Democratic,Legislature,TRUE
+Maryland,2009,Democratic,Legislature,TRUE
+Massachusetts,2009,Democratic,Legislature,TRUE
+Michigan,2009,None,Legislature,TRUE
+Minnesota,2009,None,Legislature,TRUE
+Mississippi,2009,None,Legislature,TRUE
+Missouri,2009,None,Legislature,TRUE
+Montana,2009,None,No redistricting,
+Nebraska,2009,,Legislature,TRUE
+Nevada,2009,None,Legislature,TRUE
+New Hampshire,2009,Democratic,Legislature,TRUE
+New Jersey,2009,None,Commission / nonpartisan,
+New Mexico,2009,Democratic,Legislature,TRUE
+New York,2009,Democratic,Legislature,TRUE
+North Carolina,2009,Democratic,Legislature,TRUE
+North Dakota,2009,Republican,Legislature,TRUE
+Ohio,2009,None,Legislature,TRUE
+Oklahoma,2009,None,Legislature,TRUE
+Oregon,2009,Democratic,Legislature,TRUE
+Pennsylvania,2009,None,Legislature,TRUE
+Rhode Island,2009,None,Legislature,TRUE
+South Carolina,2009,Republican,Legislature,TRUE
+South Dakota,2009,Republican,Legislature,TRUE
+Tennessee,2009,None,Legislature,TRUE
+Texas,2009,Republican,Legislature,TRUE
+Utah,2009,Republican,Legislature,TRUE
+Vermont,2009,None,No redistricting,
+Virginia,2009,None,Legislature,TRUE
+Washington,2009,Democratic,Legislature,TRUE
+West Virginia,2009,Democratic,Legislature,TRUE
+Wisconsin,2009,Democratic,Legislature,TRUE
+Wyoming,2009,None,No redistricting,
+Alabama,2010,Republican,Legislature,TRUE
+Alaska,2010,None,No redistricting,
+Arizona,2010,Republican,Legislature,TRUE
+Arkansas,2010,Democratic,Legislature,TRUE
+California,2010,Democratic,Commission / nonpartisan,
+Colorado,2010,None,Legislature,TRUE
+Connecticut,2010,Democratic,Legislature,FALSE
+Delaware,2010,Democratic,No redistricting,
+Florida,2010,Republican,Legislature,TRUE
+Georgia,2010,Republican,Legislature,TRUE
+Hawaii,2010,Democratic,Commission / nonpartisan,
+Idaho,2010,Republican,Commission / nonpartisan,
+Illinois,2010,Democratic,Legislature,TRUE
+Indiana,2010,Republican,Legislature,TRUE
+Iowa,2010,Democratic,Commission / nonpartisan,
+Kansas,2010,Republican,Legislature,TRUE
+Kentucky,2010,None,Legislature,TRUE
+Louisiana,2010,None,Legislature,TRUE
+Maine,2010,Republican,Legislature,TRUE
+Maryland,2010,Democratic,Legislature,TRUE
+Massachusetts,2010,Democratic,Legislature,TRUE
+Michigan,2010,Republican,Legislature,TRUE
+Minnesota,2010,None,Legislature,TRUE
+Mississippi,2010,None,Legislature,TRUE
+Missouri,2010,None,Legislature,TRUE
+Montana,2010,None,No redistricting,
+Nebraska,2010,,Legislature,TRUE
+Nevada,2010,None,Legislature,TRUE
+New Hampshire,2010,None,Legislature,TRUE
+New Jersey,2010,None,Commission / nonpartisan,
+New Mexico,2010,None,Legislature,TRUE
+New York,2010,None,Legislature,TRUE
+North Carolina,2010,None,Legislature,TRUE
+North Dakota,2010,Republican,Legislature,TRUE
+Ohio,2010,Republican,Legislature,TRUE
+Oklahoma,2010,Republican,Legislature,TRUE
+Oregon,2010,None,Legislature,TRUE
+Pennsylvania,2010,Republican,Legislature,TRUE
+Rhode Island,2010,None,Legislature,TRUE
+South Carolina,2010,Republican,Legislature,TRUE
+South Dakota,2010,Republican,Legislature,TRUE
+Tennessee,2010,Republican,Legislature,TRUE
+Texas,2010,Republican,Legislature,TRUE
+Utah,2010,Republican,Legislature,TRUE
+Vermont,2010,Democratic,No redistricting,
+Virginia,2010,None,Legislature,TRUE
+Washington,2010,Democratic,Legislature,TRUE
+West Virginia,2010,Democratic,Legislature,TRUE
+Wisconsin,2010,Republican,Legislature,TRUE
+Wyoming,2010,Republican,No redistricting,
+Alabama,2011,Republican,Legislature,TRUE
+Alaska,2011,None,No redistricting,
+Arizona,2011,Republican,Legislature,TRUE
+Arkansas,2011,Democratic,Legislature,TRUE
+California,2011,Democratic,Commission / nonpartisan,
+Colorado,2011,None,Legislature,TRUE
+Connecticut,2011,Democratic,Legislature,FALSE
+Delaware,2011,Democratic,No redistricting,
+Florida,2011,Republican,Legislature,TRUE
+Georgia,2011,Republican,Legislature,TRUE
+Hawaii,2011,Democratic,Commission / nonpartisan,
+Idaho,2011,Republican,Commission / nonpartisan,
+Illinois,2011,Democratic,Legislature,TRUE
+Indiana,2011,Republican,Legislature,TRUE
+Iowa,2011,None,Commission / nonpartisan,
+Kansas,2011,Republican,Legislature,TRUE
+Kentucky,2011,None,Legislature,TRUE
+Louisiana,2011,Republican,Legislature,TRUE
+Maine,2011,Republican,Legislature,TRUE
+Maryland,2011,Democratic,Legislature,TRUE
+Massachusetts,2011,Democratic,Legislature,TRUE
+Michigan,2011,Republican,Legislature,TRUE
+Minnesota,2011,None,Legislature,TRUE
+Mississippi,2011,Republican,Legislature,TRUE
+Missouri,2011,None,Legislature,TRUE
+Montana,2011,None,No redistricting,
+Nebraska,2011,,Legislature,TRUE
+Nevada,2011,None,Legislature,TRUE
+New Hampshire,2011,None,Legislature,TRUE
+New Jersey,2011,None,Commission / nonpartisan,
+New Mexico,2011,None,Legislature,TRUE
+New York,2011,None,Legislature,TRUE
+North Carolina,2011,None,Legislature,TRUE
+North Dakota,2011,Republican,Legislature,TRUE
+Ohio,2011,Republican,Legislature,TRUE
+Oklahoma,2011,Republican,Legislature,TRUE
+Oregon,2011,None,Legislature,TRUE
+Pennsylvania,2011,Republican,Legislature,TRUE
+Rhode Island,2011,None,Legislature,TRUE
+South Carolina,2011,Republican,Legislature,TRUE
+South Dakota,2011,Republican,Legislature,TRUE
+Tennessee,2011,Republican,Legislature,TRUE
+Texas,2011,Republican,Legislature,TRUE
+Utah,2011,Republican,Legislature,TRUE
+Vermont,2011,Democratic,No redistricting,
+Virginia,2011,Republican,Legislature,TRUE
+Washington,2011,Democratic,Legislature,TRUE
+West Virginia,2011,Democratic,Legislature,TRUE
+Wisconsin,2011,Republican,Legislature,TRUE
+Wyoming,2011,Republican,No redistricting,
+Alabama,2012,Republican,Legislature,TRUE
+Alaska,2012,Republican,No redistricting,
+Arizona,2012,Republican,Commission / nonpartisan,
+Arkansas,2012,None,Legislature,TRUE
+California,2012,Democratic,Commission / nonpartisan,
+Colorado,2012,Democratic,Legislature,TRUE
+Connecticut,2012,Democratic,Legislature,FALSE
+Delaware,2012,Democratic,No redistricting,
+Florida,2012,Republican,Legislature,TRUE
+Georgia,2012,Republican,Legislature,TRUE
+Hawaii,2012,Democratic,Commission / nonpartisan,
+Idaho,2012,Republican,Commission / nonpartisan,
+Illinois,2012,Democratic,Legislature,TRUE
+Indiana,2012,None,Legislature,TRUE
+Iowa,2012,Republican,Commission / nonpartisan,
+Kansas,2012,Republican,Legislature,TRUE
+Kentucky,2012,None,Legislature,TRUE
+Louisiana,2012,Republican,Legislature,TRUE
+Maine,2012,None,Legislature,TRUE
+Maryland,2012,Democratic,Legislature,TRUE
+Massachusetts,2012,Democratic,Legislature,TRUE
+Michigan,2012,Republican,Legislature,TRUE
+Minnesota,2012,Democratic,Legislature,TRUE
+Mississippi,2012,Republican,Legislature,TRUE
+Missouri,2012,None,Legislature,TRUE
+Montana,2012,None,No redistricting,
+Nebraska,2012,,Legislature,TRUE
+Nevada,2012,None,Legislature,TRUE
+New Hampshire,2012,None,Legislature,TRUE
+New Jersey,2012,None,Commission / nonpartisan,
+New Mexico,2012,None,Legislature,TRUE
+New York,2012,None,Legislature,TRUE
+North Carolina,2012,Republican,Legislature,TRUE
+North Dakota,2012,Republican,Legislature,TRUE
+Ohio,2012,Republican,Legislature,TRUE
+Oklahoma,2012,Republican,Legislature,TRUE
+Oregon,2012,Democratic,Legislature,TRUE
+Pennsylvania,2012,Republican,Legislature,TRUE
+Rhode Island,2012,None,Legislature,TRUE
+South Carolina,2012,Republican,Legislature,TRUE
+South Dakota,2012,Republican,Legislature,TRUE
+Tennessee,2012,Republican,Legislature,TRUE
+Texas,2012,Republican,Legislature,TRUE
+Utah,2012,Republican,Legislature,TRUE
+Vermont,2012,Democratic,No redistricting,
+Virginia,2012,Republican,Legislature,TRUE
+Washington,2012,None,Legislature,TRUE
+West Virginia,2012,Democratic,Legislature,TRUE
+Wisconsin,2012,Republican,Legislature,TRUE
+Wyoming,2012,Republican,No redistricting,
+Alabama,2013,Republican,Legislature,TRUE
+Alaska,2013,Republican,No redistricting,
+Arizona,2013,Republican,Commission / nonpartisan,
+Arkansas,2013,None,Legislature,TRUE
+California,2013,Democratic,Commission / nonpartisan,
+Colorado,2013,Democratic,Legislature,TRUE
+Connecticut,2013,Democratic,Legislature,FALSE
+Delaware,2013,Democratic,No redistricting,
+Florida,2013,Republican,Legislature,TRUE
+Georgia,2013,Republican,Legislature,TRUE
+Hawaii,2013,Democratic,Commission / nonpartisan,
+Idaho,2013,Republican,Commission / nonpartisan,
+Illinois,2013,Democratic,Legislature,TRUE
+Indiana,2013,Republican,Legislature,TRUE
+Iowa,2013,None,Commission / nonpartisan,
+Kansas,2013,Republican,Legislature,TRUE
+Kentucky,2013,None,Legislature,TRUE
+Louisiana,2013,Republican,Legislature,TRUE
+Maine,2013,None,Legislature,TRUE
+Maryland,2013,Democratic,Legislature,TRUE
+Massachusetts,2013,Democratic,Legislature,TRUE
+Michigan,2013,Republican,Legislature,TRUE
+Minnesota,2013,Democratic,Legislature,TRUE
+Mississippi,2013,Republican,Legislature,TRUE
+Missouri,2013,None,Legislature,TRUE
+Montana,2013,None,No redistricting,
+Nebraska,2013,,Legislature,TRUE
+Nevada,2013,None,Legislature,TRUE
+New Hampshire,2013,None,Legislature,TRUE
+New Jersey,2013,None,Commission / nonpartisan,
+New Mexico,2013,None,Legislature,TRUE
+New York,2013,None,Legislature,TRUE
+North Carolina,2013,Republican,Legislature,TRUE
+North Dakota,2013,Republican,Legislature,TRUE
+Ohio,2013,Republican,Legislature,TRUE
+Oklahoma,2013,Republican,Legislature,TRUE
+Oregon,2013,Democratic,Legislature,TRUE
+Pennsylvania,2013,Republican,Legislature,TRUE
+Rhode Island,2013,Democratic,Legislature,TRUE
+South Carolina,2013,Republican,Legislature,TRUE
+South Dakota,2013,Republican,Legislature,TRUE
+Tennessee,2013,Republican,Legislature,TRUE
+Texas,2013,Republican,Legislature,TRUE
+Utah,2013,Republican,Legislature,TRUE
+Vermont,2013,Democratic,No redistricting,
+Virginia,2013,None,Legislature,TRUE
+Washington,2013,None,Legislature,TRUE
+West Virginia,2013,Democratic,Legislature,TRUE
+Wisconsin,2013,Republican,Legislature,TRUE
+Wyoming,2013,Republican,No redistricting,
+Alabama,2014,Republican,Legislature,TRUE
+Alaska,2014,None,No redistricting,
+Arizona,2014,Republican,Commission / nonpartisan,
+Arkansas,2014,Republican,Legislature,TRUE
+California,2014,Democratic,Commission / nonpartisan,
+Colorado,2014,None,Legislature,TRUE
+Connecticut,2014,Democratic,Legislature,FALSE
+Delaware,2014,Democratic,No redistricting,
+Florida,2014,Republican,Legislature,TRUE
+Georgia,2014,Republican,Legislature,TRUE
+Hawaii,2014,Democratic,Commission / nonpartisan,
+Idaho,2014,Republican,Commission / nonpartisan,
+Illinois,2014,None,Legislature,TRUE
+Indiana,2014,Republican,Legislature,TRUE
+Iowa,2014,None,Commission / nonpartisan,
+Kansas,2014,Republican,Legislature,TRUE
+Kentucky,2014,None,Legislature,TRUE
+Louisiana,2014,Republican,Legislature,TRUE
+Maine,2014,None,Legislature,TRUE
+Maryland,2014,None,Legislature,TRUE
+Massachusetts,2014,None,Legislature,TRUE
+Michigan,2014,Republican,Legislature,TRUE
+Minnesota,2014,None,Legislature,TRUE
+Mississippi,2014,Republican,Legislature,TRUE
+Missouri,2014,None,Legislature,TRUE
+Montana,2014,None,No redistricting,
+Nebraska,2014,,Legislature,TRUE
+Nevada,2014,Republican,Legislature,TRUE
+New Hampshire,2014,None,Legislature,TRUE
+New Jersey,2014,None,Commission / nonpartisan,
+New Mexico,2014,None,Legislature,TRUE
+New York,2014,None,Legislature,TRUE
+North Carolina,2014,Republican,Legislature,TRUE
+North Dakota,2014,Republican,Legislature,TRUE
+Ohio,2014,Republican,Legislature,TRUE
+Oklahoma,2014,Republican,Legislature,TRUE
+Oregon,2014,Democratic,Legislature,TRUE
+Pennsylvania,2014,None,Legislature,TRUE
+Rhode Island,2014,Democratic,Legislature,TRUE
+South Carolina,2014,Republican,Legislature,TRUE
+South Dakota,2014,Republican,Legislature,TRUE
+Tennessee,2014,Republican,Legislature,TRUE
+Texas,2014,Republican,Legislature,TRUE
+Utah,2014,Republican,Legislature,TRUE
+Vermont,2014,Democratic,No redistricting,
+Virginia,2014,None,Legislature,TRUE
+Washington,2014,None,Legislature,TRUE
+West Virginia,2014,None,Legislature,TRUE
+Wisconsin,2014,Republican,Legislature,TRUE
+Wyoming,2014,Republican,No redistricting,
+Alabama,2015,Republican,Legislature,TRUE
+Alaska,2015,None,No redistricting,
+Arizona,2015,Republican,Commission / nonpartisan,
+Arkansas,2015,Republican,Legislature,TRUE
+California,2015,Democratic,Commission / nonpartisan,
+Colorado,2015,None,Legislature,TRUE
+Connecticut,2015,Democratic,Legislature,FALSE
+Delaware,2015,Democratic,No redistricting,
+Florida,2015,Republican,Legislature,TRUE
+Georgia,2015,Republican,Legislature,TRUE
+Hawaii,2015,Democratic,Commission / nonpartisan,
+Idaho,2015,Republican,Commission / nonpartisan,
+Illinois,2015,None,Legislature,TRUE
+Indiana,2015,Republican,Legislature,TRUE
+Iowa,2015,None,Commission / nonpartisan,
+Kansas,2015,Republican,Legislature,TRUE
+Kentucky,2015,None,Legislature,TRUE
+Louisiana,2015,None,Legislature,TRUE
+Maine,2015,None,Legislature,TRUE
+Maryland,2015,None,Legislature,TRUE
+Massachusetts,2015,None,Legislature,TRUE
+Michigan,2015,Republican,Legislature,TRUE
+Minnesota,2015,None,Legislature,TRUE
+Mississippi,2015,Republican,Legislature,TRUE
+Missouri,2015,None,Legislature,TRUE
+Montana,2015,None,No redistricting,
+Nebraska,2015,,Legislature,TRUE
+Nevada,2015,Republican,Legislature,TRUE
+New Hampshire,2015,None,Legislature,TRUE
+New Jersey,2015,None,Commission / nonpartisan,
+New Mexico,2015,None,Legislature,TRUE
+New York,2015,None,Legislature,TRUE
+North Carolina,2015,Republican,Legislature,TRUE
+North Dakota,2015,Republican,Legislature,TRUE
+Ohio,2015,Republican,Legislature,TRUE
+Oklahoma,2015,Republican,Legislature,TRUE
+Oregon,2015,Democratic,Legislature,TRUE
+Pennsylvania,2015,None,Legislature,TRUE
+Rhode Island,2015,Democratic,Legislature,TRUE
+South Carolina,2015,Republican,Legislature,TRUE
+South Dakota,2015,Republican,Legislature,TRUE
+Tennessee,2015,Republican,Legislature,TRUE
+Texas,2015,Republican,Legislature,TRUE
+Utah,2015,Republican,Legislature,TRUE
+Vermont,2015,Democratic,No redistricting,
+Virginia,2015,None,Legislature,TRUE
+Washington,2015,None,Legislature,TRUE
+West Virginia,2015,None,Legislature,TRUE
+Wisconsin,2015,Republican,Legislature,TRUE
+Wyoming,2015,Republican,No redistricting,
+Alabama,2016,Republican,Legislature,TRUE
+Alaska,2016,None,No redistricting,
+Arizona,2016,Republican,Commission / nonpartisan,
+Arkansas,2016,Republican,Legislature,TRUE
+California,2016,Democratic,Commission / nonpartisan,
+Colorado,2016,None,Legislature,TRUE
+Connecticut,2016,Democratic,Legislature,FALSE
+Delaware,2016,Democratic,No redistricting,
+Florida,2016,Republican,Legislature,TRUE
+Georgia,2016,Republican,Legislature,TRUE
+Hawaii,2016,Democratic,Commission / nonpartisan,
+Idaho,2016,Republican,Commission / nonpartisan,
+Illinois,2016,None,Legislature,TRUE
+Indiana,2016,Republican,Legislature,TRUE
+Iowa,2016,Republican,Commission / nonpartisan,
+Kansas,2016,Republican,Legislature,TRUE
+Kentucky,2016,Republican,Legislature,TRUE
+Louisiana,2016,None,Legislature,TRUE
+Maine,2016,None,Legislature,TRUE
+Maryland,2016,None,Legislature,TRUE
+Massachusetts,2016,None,Legislature,TRUE
+Michigan,2016,Republican,Legislature,TRUE
+Minnesota,2016,None,Legislature,TRUE
+Mississippi,2016,Republican,Legislature,TRUE
+Missouri,2016,Republican,Legislature,TRUE
+Montana,2016,None,No redistricting,
+Nebraska,2016,,Legislature,TRUE
+Nevada,2016,None,Legislature,TRUE
+New Hampshire,2016,Republican,Legislature,TRUE
+New Jersey,2016,None,Commission / nonpartisan,
+New Mexico,2016,None,Legislature,TRUE
+New York,2016,None,Legislature,TRUE
+North Carolina,2016,None,Legislature,FALSE
+North Dakota,2016,Republican,Legislature,TRUE
+Ohio,2016,Republican,Legislature,TRUE
+Oklahoma,2016,Republican,Legislature,TRUE
+Oregon,2016,Democratic,Legislature,TRUE
+Pennsylvania,2016,None,Legislature,TRUE
+Rhode Island,2016,Democratic,Legislature,TRUE
+South Carolina,2016,Republican,Legislature,TRUE
+South Dakota,2016,Republican,Legislature,TRUE
+Tennessee,2016,Republican,Legislature,TRUE
+Texas,2016,Republican,Legislature,TRUE
+Utah,2016,Republican,Legislature,TRUE
+Vermont,2016,None,No redistricting,
+Virginia,2016,None,Legislature,TRUE
+Washington,2016,None,Legislature,TRUE
+West Virginia,2016,None,Legislature,TRUE
+Wisconsin,2016,Republican,Legislature,TRUE
+Wyoming,2016,Republican,No redistricting,
+Alabama,2017,Republican,Legislature,TRUE
+Alaska,2017,None,No redistricting,
+Arizona,2017,Republican,Commission / nonpartisan,
+Arkansas,2017,Republican,Legislature,TRUE
+California,2017,Democratic,Commission / nonpartisan,
+Colorado,2017,None,Legislature,TRUE
+Connecticut,2017,Democratic,Legislature,FALSE
+Delaware,2017,Democratic,No redistricting,
+Florida,2017,Republican,Legislature,TRUE
+Georgia,2017,Republican,Legislature,TRUE
+Hawaii,2017,Democratic,Commission / nonpartisan,
+Idaho,2017,Republican,Commission / nonpartisan,
+Illinois,2017,None,Legislature,TRUE
+Indiana,2017,Republican,Legislature,TRUE
+Iowa,2017,Republican,Commission / nonpartisan,
+Kansas,2017,Republican,Legislature,TRUE
+Kentucky,2017,Republican,Legislature,TRUE
+Louisiana,2017,None,Legislature,TRUE
+Maine,2017,None,Legislature,TRUE
+Maryland,2017,None,Legislature,TRUE
+Massachusetts,2017,None,Legislature,TRUE
+Michigan,2017,Republican,Legislature,TRUE
+Minnesota,2017,None,Legislature,TRUE
+Mississippi,2017,Republican,Legislature,TRUE
+Missouri,2017,Republican,Legislature,TRUE
+Montana,2017,None,No redistricting,
+Nebraska,2017,,Legislature,TRUE
+Nevada,2017,None,Legislature,TRUE
+New Hampshire,2017,Republican,Legislature,TRUE
+New Jersey,2017,Democratic,Commission / nonpartisan,
+New Mexico,2017,None,Legislature,TRUE
+New York,2017,None,Legislature,TRUE
+North Carolina,2017,None,Legislature,FALSE
+North Dakota,2017,Republican,Legislature,TRUE
+Ohio,2017,Republican,Legislature,TRUE
+Oklahoma,2017,Republican,Legislature,TRUE
+Oregon,2017,Democratic,Legislature,TRUE
+Pennsylvania,2017,None,Legislature,TRUE
+Rhode Island,2017,Democratic,Legislature,TRUE
+South Carolina,2017,Republican,Legislature,TRUE
+South Dakota,2017,Republican,Legislature,TRUE
+Tennessee,2017,Republican,Legislature,TRUE
+Texas,2017,Republican,Legislature,TRUE
+Utah,2017,Republican,Legislature,TRUE
+Vermont,2017,None,No redistricting,
+Virginia,2017,None,Legislature,TRUE
+Washington,2017,Democratic,Legislature,TRUE
+West Virginia,2017,Republican,Legislature,TRUE
+Wisconsin,2017,Republican,Legislature,TRUE
+Wyoming,2017,Republican,No redistricting,
+Alabama,2018,Republican,Legislature,TRUE
+Alaska,2018,Republican,No redistricting,
+Arizona,2018,Republican,Commission / nonpartisan,
+Arkansas,2018,Republican,Legislature,TRUE
+California,2018,Democratic,Commission / nonpartisan,
+Colorado,2018,Democratic,Legislature,TRUE
+Connecticut,2018,Democratic,Legislature,FALSE
+Delaware,2018,Democratic,No redistricting,
+Florida,2018,Republican,Legislature,TRUE
+Georgia,2018,Republican,Legislature,TRUE
+Hawaii,2018,Democratic,Commission / nonpartisan,
+Idaho,2018,Republican,Commission / nonpartisan,
+Illinois,2018,Democratic,Legislature,TRUE
+Indiana,2018,Republican,Legislature,TRUE
+Iowa,2018,Republican,Commission / nonpartisan,
+Kansas,2018,None,Legislature,TRUE
+Kentucky,2018,Republican,Legislature,TRUE
+Louisiana,2018,None,Legislature,TRUE
+Maine,2018,Democratic,Legislature,TRUE
+Maryland,2018,None,Legislature,TRUE
+Massachusetts,2018,None,Legislature,TRUE
+Michigan,2018,None,Commission / nonpartisan,TRUE
+Minnesota,2018,None,Legislature,TRUE
+Mississippi,2018,Republican,Legislature,TRUE
+Missouri,2018,Republican,Legislature,TRUE
+Montana,2018,None,No redistricting,
+Nebraska,2018,,Legislature,TRUE
+Nevada,2018,Democratic,Legislature,TRUE
+New Hampshire,2018,None,Legislature,TRUE
+New Jersey,2018,Democratic,Commission / nonpartisan,
+New Mexico,2018,Democratic,Legislature,TRUE
+New York,2018,Democratic,Legislature,TRUE
+North Carolina,2018,None,Legislature,FALSE
+North Dakota,2018,Republican,Legislature,TRUE
+Ohio,2018,Republican,Legislature,TRUE
+Oklahoma,2018,Republican,Legislature,TRUE
+Oregon,2018,Democratic,Legislature,TRUE
+Pennsylvania,2018,None,Legislature,TRUE
+Rhode Island,2018,Democratic,Legislature,TRUE
+South Carolina,2018,Republican,Legislature,TRUE
+South Dakota,2018,Republican,Legislature,TRUE
+Tennessee,2018,Republican,Legislature,TRUE
+Texas,2018,Republican,Legislature,TRUE
+Utah,2018,Republican,Legislature,TRUE
+Vermont,2018,None,No redistricting,
+Virginia,2018,None,Legislature,TRUE
+Washington,2018,Democratic,Legislature,TRUE
+West Virginia,2018,Republican,Legislature,TRUE
+Wisconsin,2018,None,Legislature,TRUE
+Wyoming,2018,Republican,No redistricting,
+Alabama,2019,Republican,Legislature,TRUE
+Alaska,2019,Republican,No redistricting,
+Arizona,2019,Republican,Commission / nonpartisan,
+Arkansas,2019,Republican,Legislature,TRUE
+California,2019,Democratic,Commission / nonpartisan,
+Colorado,2019,Democratic,Legislature,TRUE
+Connecticut,2019,Democratic,Legislature,FALSE
+Delaware,2019,Democratic,No redistricting,
+Florida,2019,Republican,Legislature,TRUE
+Georgia,2019,Republican,Legislature,TRUE
+Hawaii,2019,Democratic,Commission / nonpartisan,
+Idaho,2019,Republican,Commission / nonpartisan,
+Illinois,2019,Democratic,Legislature,TRUE
+Indiana,2019,Republican,Legislature,TRUE
+Iowa,2019,Republican,Commission / nonpartisan,
+Kansas,2019,None,Legislature,TRUE
+Kentucky,2019,None,Legislature,TRUE
+Louisiana,2019,None,Legislature,TRUE
+Maine,2019,Democratic,Legislature,TRUE
+Maryland,2019,None,Legislature,TRUE
+Massachusetts,2019,None,Legislature,TRUE
+Michigan,2019,None,Commission / nonpartisan,TRUE
+Minnesota,2019,None,Legislature,TRUE
+Mississippi,2019,Republican,Legislature,TRUE
+Missouri,2019,Republican,Legislature,TRUE
+Montana,2019,None,No redistricting,
+Nebraska,2019,,Legislature,TRUE
+Nevada,2019,Democratic,Legislature,TRUE
+New Hampshire,2019,None,Legislature,TRUE
+New Jersey,2019,Democratic,Commission / nonpartisan,
+New Mexico,2019,Democratic,Legislature,TRUE
+New York,2019,Democratic,Legislature,TRUE
+North Carolina,2019,None,Legislature,TRUE
+North Dakota,2019,Republican,Legislature,TRUE
+Ohio,2019,Republican,Legislature,TRUE
+Oklahoma,2019,Republican,Legislature,TRUE
+Oregon,2019,Democratic,Legislature,TRUE
+Pennsylvania,2019,None,Legislature,TRUE
+Rhode Island,2019,Democratic,Legislature,TRUE
+South Carolina,2019,Republican,Legislature,TRUE
+South Dakota,2019,Republican,Legislature,TRUE
+Tennessee,2019,Republican,Legislature,TRUE
+Texas,2019,Republican,Legislature,TRUE
+Utah,2019,Republican,Legislature,TRUE
+Vermont,2019,None,No redistricting,
+Virginia,2019,Democratic,Legislature,TRUE
+Washington,2019,Democratic,Legislature,TRUE
+West Virginia,2019,Republican,Legislature,TRUE
+Wisconsin,2019,None,Legislature,TRUE
+Wyoming,2019,Republican,No redistricting,
