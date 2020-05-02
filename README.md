@@ -2,6 +2,8 @@
 Stuff I've done on Quora other than election forecasts.
 
 ## Projects in here
+- **CCES**: Things that make use of the Cooperative Congressional Elections Study (CCES).
+  - Associated answers/posts: ["Whence come the Amash voters?"](https://www.quora.com/q/elections/Whence-come-the-Amash-voters)
 
 - **PARS-PARG**: A better version of FiveThirtyEight's Popularity Above Replacement Governor/Senator metric.
 	- Associated answers/posts: ["A less-lazy approach to a recent FiveThirtyEight piece"](https://www.quora.com/q/elections/A-less-lazy-approach-to-a-recent-FiveThirtyEight-piece)
